@@ -1,0 +1,10 @@
+{
+	"ImportPath": "github.com/ahamilton55/slack_say",
+	"GoVersion": "go1.6.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/bluele/slack",
+			"Rev": "5ad82ac42481ca5de6d34e3bcb5de21c0db965c7"
+		}
+	]
+}
